@@ -95,7 +95,7 @@ h1 {
     align-items: center;
     flex-direction: column;
     position: absolute;
-    top: -300px;
+    top: -2000px;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 600px;
@@ -110,7 +110,7 @@ h1 {
     font-size: 28px;
 }
 
-.popup button {
+.popup .close {
     margin-top: 20px;
 }
 
